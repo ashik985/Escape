@@ -1,0 +1,154 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+html{
+	scroll-behavior: smooth;
+}
+
+/* Header Start */
+
+.header{
+	padding: 50px 0;
+	background-image: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.menu{}
+.menu ul{
+}
+.menu ul li{
+    margin: 20px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+}
+.menu ul li img{}
+.menu a img{}
+.content{}
+.content h3{
+    padding-top: 80px;
+    color: white;
+    font-size: 36px;
+}
+.content h1{
+    color: white;
+    font-size: 100px;
+    font-weight: 800;
+}
+.btn-custom{
+	font-size: 18px;
+	font-weight: 600;
+	margin-top: 20px;
+	padding: 15px 20px;
+}
+
+
+
+/* Header Start */
+
+
+
+/* Feature Start */
+
+.feature{
+   padding: 70px 0;
+}
+.f-icon img{
+	border: 2px solid;
+	border-radius: 30%;
+	width: 70px;
+	height: 70px;
+}
+.f-text h2{
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.f-text p{
+    font-size: 15px;
+}
+hr{
+	color: red;
+}
+.f-img{
+
+}
+/* Feature End */
+
+
+
+/* About Start */
+.about{
+	padding: 70px 0;
+	background-color: #f7f7f7;
+}
+.about-content h2{}
+.about-content pre{
+	font-size: 16px;
+}
+
+/* About End */
+
+
+
+
+/* Slider Start */
+
+.slider{
+	padding: 70px 0;
+	background-image: url(../images/7.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.circle-p{
+	color: white;
+    margin: 0px;
+    font-size: 18px;
+}
+.circle-p1{
+    color: white;
+    margin-bottom: 55px;
+    font-size: 18px;
+}
+
+
+
+/* Slider End */
+
+
+
+/* Address Start */
+.address{
+	padding: 70px 0;
+}
+.num{
+	width: 30px;
+	height: 30px;
+	color: white;
+	background-color: #2497b6;
+	border-radius: 5px;
+	font-size: 22px;
+	font-weight: 700;
+}
+
+.box{
+	background-color: #f7f7f7;
+	margin-top: 40px;
+}
+
+.hr-custom{
+	color: black;
+	margin-top: 0px;
+	
+}
+.map-custom{
+   margin-top: 30px;
+   margin-left: 15px;
+}
+
+/* Address End */
